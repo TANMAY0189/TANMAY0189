@@ -1,16 +1,24 @@
-# <center>Tanmay S. Deshpande</center>
-- 👋 Hi, I’m @TANMAY0189, an E&TC graduate from Pune, Maharashtra, India! 
+# <center>Introduction</center>
+- 👋 Hi, I’m [Tanmay S. Deshpande](@TANMAY0189), an E&TC graduate (Batch : 2021) from Pune, Maharashtra, India! 
 - 👀 I’m highly interested in the doamins of Artificial Intelligence, Machine Learning and Deep Learning.
-- 🌱 I’m currently learning new concepts of this vast domain.  
+- 🌱 I’m currently engaged in the process of learning new concepts of this vast domain.  
 - 💞️ I’m looking to strenghten my Kaggle Profile by participating in competitions and working on different types of datasets.
 
-
-# <center>More About Me</center>
-- I built my foundations for this domain from Ai Adevntures,Pune alongwith Coursera Courses.
-- I, alongwith my teammates, participated & won a AI-based competition conducted by College of Military Engineering, Pune.
+# <center>Extension</center>
+- I built my foundations for this domain from [Ai Adevntures,Pune](https://www.aiadventures.in/) alongwith Coursera Courses starting from May of 2019.
+- I led my teammates to victory in an AI-based competition (January,2020) conducted by College of Military Engineering, Pune.
 - We presented the competition work at **2021 8th International Conference on Computing for Sustainable Global Development (INDIACom)** which was published in [IEEE Xplore](https://ieeexplore.ieee.org/document/9441087).
-- I also have experience of completing paid freelance projects.
+- I also have experience of completing paid freelance projects in this domain.
+- Currently, I am on the verge of publishing my 2nd research paper on the topic of **Computer Vision in Autonomous Vehicles**.
 
+
+# <center>Socials</center>
+- [LinkedIn](https://www.linkedin.com/in/tanmay-deshpande-1211ab1aa/)
+- [Kaggle](https://www.kaggle.com/tanmay111999)
+- [Instagram](https://www.instagram.com/tanny___111999/)
+
+# <center>Contact</center>
+- Gmail : tanmaydeshpande1@gmail.com
 <!---
 TANMAY0189/TANMAY0189 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
