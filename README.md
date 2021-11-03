@@ -5,9 +5,9 @@
 -  I’m looking to strenghten my Kaggle Profile by participating in competitions and working on different types of datasets.
 
 # <center>Extension</center>
-- I built my foundations for this domain from [Ai Adevntures,Pune](https://www.aiadventures.in/) alongwith Coursera Courses starting from May of 2019.
+- I built my foundations for this domain from [Ai Adventures,Pune](https://www.aiadventures.in/) alongwith Coursera Courses starting from May of 2019.
 - I led my teammates to victory in an AI-based competition (January,2020) conducted by College of Military Engineering, Pune.
-- We presented the competition work at **2021 8th International Conference on Computing for Sustainable Global Development (INDIACom)** which was published in [IEEE Xplore](https://ieeexplore.ieee.org/document/9441087).
+- Our competition work was presented at **2021 8th International Conference on Computing for Sustainable Global Development (INDIACom)** which was published in [IEEE Xplore](https://ieeexplore.ieee.org/document/9441087).
 - I also have experience of completing paid freelance projects in this domain.
 - Currently, I am on the verge of publishing my 2nd research paper on the topic of **Computer Vision in Autonomous Vehicles**.
 
