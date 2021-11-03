@@ -1,6 +1,6 @@
 # <center>Introduction</center>
 -  Hi, I’m [Tanmay S. Deshpande](@TANMAY0189), an E&TC graduate (Batch : 2021) from Pune, Maharashtra, India! 
--  I’m highly interested in the doamins of Artificial Intelligence, Machine Learning and Deep Learning.
+-  I’m highly interested in the domains of Artificial Intelligence, Machine Learning and Deep Learning.
 -  I’m currently working as a mentor at Ai Adventures,Pune.  
 -  I’m looking to strenghten my Kaggle Profile by participating in competitions and working on different types of datasets.
 
