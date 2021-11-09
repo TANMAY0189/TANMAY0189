@@ -12,12 +12,12 @@
 - Currently, I am on the verge of publishing my 2nd research paper on the topic of **Computer Vision in Autonomous Vehicles**.
 
 
-# <center>Socials</center>
+# <center>Socials :</center>
 - [LinkedIn](https://www.linkedin.com/in/tanmay-deshpande-1211ab1aa/)
 - [Kaggle](https://www.kaggle.com/tanmay111999)
 - [Instagram](https://www.instagram.com/tanny___111999/)
 
-# <center>Contact</center>
+# <center>Contact :</center>
 - Gmail : tanmaydeshpande1@gmail.com
 <!---
 TANMAY0189/TANMAY0189 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
