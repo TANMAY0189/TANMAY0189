@@ -13,7 +13,7 @@
 
 
 # <center>Socials :</center>
-- [LinkedIn](https://www.linkedin.com/in/tanmay-deshpande-1211ab1aa/)
+- [LinkedIn](https://www.linkedin.com/in/deshpande-tanmay)
 - [Kaggle](https://www.kaggle.com/tanmay111999)
 - [Instagram](https://www.instagram.com/tanny___111999/)
 
