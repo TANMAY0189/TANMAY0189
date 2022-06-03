@@ -1,7 +1,6 @@
 # Introduction :
 -  Hi, I’m [Tanmay S. Deshpande](@TANMAY0189), an E&TC graduate (Batch : 2021) from Pune, Maharashtra, India! 
 -  I’m highly interested in the domains of Artificial Intelligence, Machine Learning and Deep Learning.
--  I’m currently working as a mentor at Ai Adventures,Pune.  
 -  I’m looking to strenghten my [Kaggle](https://www.kaggle.com/tanmay111999) Profile by participating in competitions and working on different types of datasets.
 
 # Extension :
@@ -10,7 +9,6 @@
 - Our competition work was presented at **2021 8th International Conference on Computing for Sustainable Global Development (INDIACom)** which was published in [IEEE Xplore](https://ieeexplore.ieee.org/document/9441087).
 - I also have experience of completing paid freelance projects in this domain.
 - Currently, I am on the verge of publishing my 2nd research paper on the topic of **Computer Vision in Autonomous Vehicles**.
-
 
 # Socials :
 - [LinkedIn](https://www.linkedin.com/in/deshpande-tanmay)
